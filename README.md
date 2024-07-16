@@ -3,6 +3,8 @@ Plann.er é um projeto que tem como principal objetivo ser um planejador de viag
 
 O projeto foi feito a partir do evento NLW Journey promovido pela Rocketseat.
 
+Este é o projeto mobile, o qual foi feito em React Native.
+
 ## Routes
 
 - [x] Create new trip (`POST /trips`);
